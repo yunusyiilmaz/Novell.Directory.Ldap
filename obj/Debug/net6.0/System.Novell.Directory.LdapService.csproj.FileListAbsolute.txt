@@ -1,0 +1,8 @@
+C:\Users\yunus.yılmaz\Desktop\System.Novell.Directory.LdapService\System.Novell.Directory.LdapService\obj\Debug\net6.0\System.Novell.Directory.LdapService.csproj.AssemblyReference.cache
+C:\Users\yunus.yılmaz\Desktop\System.Novell.Directory.LdapService\System.Novell.Directory.LdapService\obj\Debug\net6.0\System.Novell.Directory.LdapService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus.yılmaz\Desktop\System.Novell.Directory.LdapService\System.Novell.Directory.LdapService\obj\Debug\net6.0\System.Novell.Directory.LdapService.AssemblyInfoInputs.cache
+C:\Users\yunus.yılmaz\Desktop\System.Novell.Directory.LdapService\System.Novell.Directory.LdapService\obj\Debug\net6.0\System.Novell.Directory.LdapService.AssemblyInfo.cs
+C:\Users\yunus.yılmaz\Desktop\System.Novell.Directory.LdapService\System.Novell.Directory.LdapService\obj\Debug\net6.0\System.Novell.Directory.LdapService.csproj.CoreCompileInputs.cache
+C:\Users\yunus.yılmaz\Desktop\System.Novell.Directory.LdapService\System.Novell.Directory.LdapService\obj\Debug\net6.0\System.Novell.Directory.LdapService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yunus.yılmaz\Desktop\System.Novell.Directory.LdapService\System.Novell.Directory.LdapService\obj\Debug\net6.0\System.Novell.Directory.LdapService.RazorAssemblyInfo.cache
+C:\Users\yunus.yılmaz\Desktop\System.Novell.Directory.LdapService\System.Novell.Directory.LdapService\obj\Debug\net6.0\System.Novell.Directory.LdapService.RazorAssemblyInfo.cs

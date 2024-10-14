@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Novell.Directory.LdapService.props" />
+</Project>

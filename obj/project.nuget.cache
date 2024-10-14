@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FiuQD0gQtn6BgpllPbh24qhqyWwP5EBpRvvQm8gz+CppMc3UCF6Cx1sis0hYRkTn7yokVk0DYTV3SYpGzX8hCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yunus.yılmaz\\Desktop\\Novell.Directory.LdapService\\System.Novell.Directory.LdapService\\Novell.Directory.LdapService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yunus.yılmaz\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\yunus.yılmaz\\.nuget\\packages\\novell.directory.ldap.netstandard\\3.6.0\\novell.directory.ldap.netstandard.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
